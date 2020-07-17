@@ -1,0 +1,10 @@
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\Racetrack_Stimulator\obj\Debug\Racetrack_Stimulator.csprojAssemblyReference.cache
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\Racetrack_Stimulator\obj\Debug\Racetrack_Stimulator.Form1.resources
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\Racetrack_Stimulator\obj\Debug\Racetrack_Stimulator.Properties.Resources.resources
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\Racetrack_Stimulator\obj\Debug\Racetrack_Stimulator.csproj.GenerateResource.cache
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\Racetrack_Stimulator\obj\Debug\Racetrack_Stimulator.csproj.CoreCompileInputs.cache
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\Racetrack_Stimulator\bin\Debug\Racetrack_Stimulator.exe.config
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\Racetrack_Stimulator\bin\Debug\Racetrack_Stimulator.exe
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\Racetrack_Stimulator\bin\Debug\Racetrack_Stimulator.pdb
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\Racetrack_Stimulator\obj\Debug\Racetrack_Stimulator.exe
+C:\Users\ekjot\Desktop\Livelihood\Portfolio\Racetrack_Stimulator\obj\Debug\Racetrack_Stimulator.pdb
